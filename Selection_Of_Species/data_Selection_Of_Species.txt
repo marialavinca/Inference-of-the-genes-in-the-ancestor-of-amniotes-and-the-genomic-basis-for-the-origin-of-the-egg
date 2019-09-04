@@ -1,0 +1,1 @@
+The filtered data after BUSCO step is saved in Zenodo repository. Also, the concatenated file with all the proteomes.

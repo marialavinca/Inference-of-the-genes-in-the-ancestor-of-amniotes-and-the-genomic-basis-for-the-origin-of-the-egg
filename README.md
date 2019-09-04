@@ -49,7 +49,7 @@ DOI data: https://doi.org/10.5281/zenodo.3385935
 
 -Annotation_With_GO_terms.tar.gz
 
-     *Result_graphs (interactive map, revigo map and scatterplot result graph of the GO terms and enriched functions.)
+     *Result_graphs (Interactive map, revigo map and scatterplot result graphs of the GO terms and enriched functions.)
      
            +Interactive_graph.png
            

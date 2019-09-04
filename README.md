@@ -10,8 +10,6 @@ DOI data: https://doi.org/10.5281/zenodo.3385935
 -Selection_Of_Species
 
      *data_Selection_Of_Species.txt (txt file that points to Zenodo repository where the main data for this method part is contained.)
-
-     *all_proteomes_db.tar.gz
      
 -Genome_Quality_Assessment_With_BUSCO    
      

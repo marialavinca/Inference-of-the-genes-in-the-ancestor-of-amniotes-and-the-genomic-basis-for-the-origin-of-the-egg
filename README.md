@@ -29,7 +29,7 @@ DOI data: https://doi.org/10.5281/zenodo.3385935
 
      *Gene_Clustering_In_HGs_With_MCL
 
-           +MCL_row_counter.pl (perl script that parses parsed the output of MCL to produce a taxonomic occupancy table. The result file has a HG in each row and one species per column.)
+           +MCL_row_counter.pl (perl script that parses the output of MCL to produce a taxonomic occupancy table. The result file has a HG in each row and one species per column.)
 
      *Preparation_Of_PAPS_and_Inferring_Ancestral_And_Novel_Genes
 
